@@ -1,2 +1,2 @@
-# Product-_Total
+# Product Total
 OOP activity 5. Add to cart frontend. 
